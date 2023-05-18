@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    padding-top: 800px;
+}
+.profile
+{
+    border-radius: 100%;
+}
+h1{
+    font-size: 40px;
+}
+ #bio
+ {
+font-family:"sans serif";
+ }
+ a{
+    text-decoration: none;
+ }
+ .menu
+ {
+    position: fixed;
+    background-color: chartreuse;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+ }
+ .links{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+ }
+ .links:hover{
+    font-size: 25px;
+    text-decoration: underline;
+ }
